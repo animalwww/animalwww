@@ -6,7 +6,6 @@
 
 
 2. 회원가입(localhost:8080/user/signup)
-   1. 일반 유저: 로그인 후 메인 화면(localhost:8080/home)으로 이동
 ![user test](https://user-images.githubusercontent.com/98805756/159467193-03c2defb-82de-4561-a45d-f13a3f09feaf.PNG)
 
 3. 로그인
